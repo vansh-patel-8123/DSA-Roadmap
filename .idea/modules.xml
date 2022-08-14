@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2_Array_And_String/2_Array_And_String.iml" filepath="$PROJECT_DIR$/2_Array_And_String/2_Array_And_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/MDSA.iml" filepath="$PROJECT_DIR$/MDSA.iml" />
     </modules>
   </component>
