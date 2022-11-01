@@ -1,0 +1,26 @@
+- [ ] Complexity
+- [ ] Array
+- [ ] String
+- [ ] Maths
+- [ ] Sorting Algorithm
+	- [ ]  Bubble 
+	- [ ]  Selection 
+	- [ ] Insertion 
+	- [ ] Cycle
+	- [ ]  Merge
+	- [ ]  Quick
+- [ ] Searching
+	- [ ]  Linear
+	- [ ] Binary 
+- [ ] Mix due
+- [ ] Recursion & Backtracking
+- [ ] LinkedList
+- [ ] Bit Manipulation
+- [ ] Stack & Queue
+- [ ] Hashing & Heap
+	 - [ ] Hashing
+	 - [ ] Heap
+- [ ] BT & BST
+- [ ] Greedy
+- [ ] Graphs
+- [ ] DP
